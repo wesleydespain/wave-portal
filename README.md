@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# Solidity and Ethereum Smart Contracts Web3 Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Simple Web3 App to implement blockchain and ethereum smart contracts.
 
-Try running some of the following tasks:
+Built using react + solidity and deployed on replit 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+project built from buildspace (https://buildspace.so/)
+
+View live demo here https://wave-portal.wesleydespain.repl.co/
